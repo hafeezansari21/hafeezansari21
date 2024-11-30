@@ -11,7 +11,7 @@
 - 📫 How to reach me **contactmrpixelpro@gmail.com**
 
 - 📄 Know about my experiences [6 years of experiences](6 years of experiences)
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14646894-Work-gif&psig=AOvVaw1c05fWJ-UW60ENlWVbPigw&ust=1733060124994000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCPCz8puWhIoDFQAAAAAdAAAAABAe" alt="baner">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mrpixelpro93630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mrpixelpro93630" height="30" width="40" /></a>

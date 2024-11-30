@@ -1,5 +1,5 @@
 <img src="https://i.postimg.cc/RV30XnW2/baner.jpg" alt="baner">
-<h1 align="center">Hi 👋, I'm Mr Pixel Pro</h1>
+<h1 align="center">Hi 👋, I'm Hafeez Ansari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Next js Backend**
